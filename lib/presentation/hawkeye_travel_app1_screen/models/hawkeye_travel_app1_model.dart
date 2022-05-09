@@ -1,0 +1,1 @@
+class HawkeyeTravelApp1Model {}

@@ -1,0 +1,1 @@
+class LoginRegistrationPage1Model {}
